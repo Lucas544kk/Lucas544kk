@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lucas544kk
 - 👀 I’m interested in games
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on desenvolving games
 - 📫 How to reach me lucasmachado544kk@gmail.com
 
